@@ -6,7 +6,7 @@ Basic python scipt project
 3. Install package required with in our environment (myenv)
 4. And Write the script and run the python file >py your_python_fine_name.py
 
-**Script covered ** :
+**Script covered** :
 1. Calculator application
 2. Employee Crud operation with my SQL DB connection
 3. Compression and decompression of files
